@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--加载布局-->
+    <declare-styleable name="LoadingLayout">
+        <attr name="loading_anim_firstvisble" format="boolean" />
+        <attr name="loading_anim" format="reference" />
+        <attr name="loading_anim_need" format="boolean" />
+        <attr name="loading_no_net" format="reference" />
+        <attr name="loading_no_net_need" format="boolean" />
+        <attr name="loading_no_data" format="reference" />
+    </declare-styleable>
+</resources>
